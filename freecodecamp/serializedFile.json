@@ -1,0 +1,11 @@
+{
+  "ownerId": 1234,
+  "ownerName": "Tim",
+  "todos": [
+    {
+      "state": "TASK_DONE",
+      "task": "Test ProtoBuf for Python",
+      "dueDate": "31.10.2019"
+    }
+  ]
+}
